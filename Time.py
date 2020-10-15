@@ -46,4 +46,3 @@ t = Time2(28,55,30)
 #print(t.ShowTime())
 print(t.ShowTime())
 
-#comment
